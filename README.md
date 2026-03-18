@@ -1,17 +1,25 @@
-<h1 align="center">⚡ Ashrith ⚡</h1>
+<h1 align="center">
+  ⚡ 𝘼𝙨𝙝𝙧𝙞𝙩𝙝 ⚡
+</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00FF00&center=true&vCenter=true&width=600&lines=Cybersecurity+Engineer;Digital+Forensics+Explorer;CTF+Player+%26+Author;Building+Secure+Systems" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&color=00FF00&center=true&vCenter=true&width=700&lines=Cybersecurity+Engineer;DFIR+%7C+Web+Security;CTF+Player+%26+Author;Breaking+Systems+Since+Day+1" />
 </p>
 
 ---
 
-## 🧠 About Me
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7TKsQ8UQW3m7gQ3y/giphy.gif" width="600">
+</p>
+
+---
+
+## 🧠 SYSTEM INITIALIZATION
 
 ```bash
-> Initializing profile...
+$ booting profile...
 
-Name: Ashrith
-Role: Product Design Engineer @ MISS Electronics
-Domain: Cybersecurity | DFIR | Web Security
-Status: Breaking systems to understand them
+[✔] Name        : Ashrith
+[✔] Role        : Product Design Engineer @ MISS Electronics
+[✔] Domain      : Cybersecurity | DFIR | Web Security
+[✔] Status      : Breaking systems to understand them
