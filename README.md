@@ -8,9 +8,6 @@
 
 ---
 
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7TKsQ8UQW3m7gQ3y/giphy.gif" width="600">
-</p>
 
 ---
 
