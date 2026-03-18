@@ -1,5 +1,5 @@
 <h1 align="center">
-  ⚡ 𝘼𝙨𝙝𝙧𝙞𝙩𝙝 ⚡
+  𝘼𝙨𝙝𝙧𝙞𝙩𝙝 
 </h1>
 
 <p align="center">
