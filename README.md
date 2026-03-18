@@ -1,22 +1,35 @@
 <h1 align="center">
-  𝘼𝙨𝙝𝙧𝙞𝙩𝙝 
+  ⚡ 𝘼𝙨𝙝𝙧𝙞𝙩𝙝 𝙋𝙚𝙚𝙘𝙝𝙖𝙧𝙖 ⚡
 </h1>
+<p align="center"> <img src="https://raw.githubusercontent.com/ashrithpeechara/ashrithpeechara/output/github-contribution-grid-snake.svg" /> </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&color=00FF00&center=true&vCenter=true&width=700&lines=Cybersecurity+Engineer;DFIR+%7C+Web+Security;CTF+Player+%26+Author;Breaking+Systems+Since+Day+1" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=2500&color=00FF00&center=true&vCenter=true&width=800&lines=Cybersecurity+Engineer;DFIR+%7C+Web+Security;CTF+Player+%26+Author;Access+Granted..." />
 </p>
 
 ---
 
+<p align="center">
+  <img src="https://i.gifer.com/7VE.gif" width="100%">
+</p>
 
 ---
 
-## 🧠 SYSTEM INITIALIZATION
+## 🧠 SYSTEM BOOT
 
 ```bash
-$ booting profile...
+$ sudo boot Ashrith_Peechara.exe
 
-[✔] Name        : Ashrith
-[✔] Role        : Product Design Engineer @ MISS Electronics
-[✔] Domain      : Cybersecurity | DFIR | Web Security
-[✔] Status      : Breaking systems to understand them
+[████████████████████] 100%
+
+> Initializing modules...
+> Loading cyber profile...
+> Access Granted ✔
++ Name        : Ashrith Peechara
++ Role        : Product Design Engineer @ MISS Electronics
++ Domain      : Cybersecurity | DFIR | Web Security
++ Status      : Breaking systems to understand them
+[+] Digital Forensics (learning & applying)
+[+] TCP/IP Packet Analysis
+[+] Web Application Security
+[+] CTF Challenges (Player & Author)
